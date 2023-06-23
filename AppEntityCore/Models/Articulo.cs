@@ -3,7 +3,7 @@
 namespace AppEntityCore.Models
 {
 
-#nullable disable
+#nullable disable // para no usar ?
     [Table("Articulos")]
     public class Articulo
     {
